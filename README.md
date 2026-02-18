@@ -52,7 +52,7 @@
 
 | **Desktop View** | **Mobile View (App Style)** |
 |:---:|:---:|
-| <img src="urlqr.png" alt="Desktop UI" width="100%"> | <img src="mobileview.png" alt="Mobile UI" width="90%"> |
+| <img src="urlqr.png" alt="Desktop UI" width="100%"> | <img src="mobileview.png" alt="Mobile UI" width="100%"> |
 
 > *https://atul-dev-ai.github.io/QR-code-generator*
 
