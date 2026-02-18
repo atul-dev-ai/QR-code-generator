@@ -13,7 +13,7 @@
     <a href="https://atulpaul.vercel.app">View Demo</a> •
     <a href="#-features">Features</a> •
     <a href="#-how-to-run">How To Run</a> •
-    <a href="#-author">Author</a>
+    <a href="https://github.com/atul-dev-ai">Author</a>
   </p>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -126,6 +126,20 @@ Contributions are always welcome! If you have any ideas to make this tool better
 <p align="center">
   <i>Made with ❤️ and Tailwind CSS</i>
 </p>
+
+📝 How to update it:
+
+**Create File:** In your VS Code, create a file named `README.md`.
+
+**Paste:** Copy the code from the box above and paste it into that file.
+
+**Customization (Optional):**
+
+Remove the links labeled **[Desktop UI Placeholder]** and **[Mobile UI Placeholder]** and replace them with the original screenshot links of your website (if you have them). If you don’t, you can leave the placeholders as they are — that’s completely fine.
+
+Replace `your-username/your-repo-name` with your actual GitHub username and repository name.
+
+**Push:** Then run the following command to update it on GitHub:
 
 
 ```Bash
