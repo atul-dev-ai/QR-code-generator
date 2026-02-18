@@ -52,7 +52,7 @@
 
 | **Desktop View** | **Mobile View (App Style)** |
 |:---:|:---:|
-| <img src="urlqr.png" alt="Desktop UI" width="100%"> | <img src="mobileview.png" alt="Mobile UI" width="60%"> |
+| <img src="urlqr.png" alt="Desktop UI" width="100%"> | <img src="mobileview.png" alt="Mobile UI" width="90%"> |
 
 > *https://atul-dev-ai.github.io/QR-code-generator*
 
@@ -93,13 +93,13 @@ Since this project uses **Tailwind CSS via CDN**, you don't need `Node.js` or `n
 
 ## 📂 Folder Structure
 
-├── `index.html`       # Main application structure
+├── `index.html`       # Main application structure.
 
-├── `script.js`        # Logic for QR, URL Shortener, and UI toggles
+├── `script.js`        # Logic for QR, URL Shortener, and UI toggles.
 
-├── `style.css`        # (Optional) Custom styles if needed
+├── `style.css`        # (Optional) Custom styles if needed.
 
-└── `README.md`        # Project documentation
+└── `README.md`        # Project documentation.
 
 ---
 
@@ -124,7 +124,7 @@ Contributions are always welcome! If you have any ideas to make this tool better
 * **Linkedin:** [paul-atul](https://www.linkedin.com/in/paul-atul)
 
 <p align="center">
-  <i>Made with ❤️ and Tailwind CSS</i>
+  <i>Made with ❤️ and Tailwind CSS.</i>
 </p>
 
 
