@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Atul%20Tools&fontSize=80&animation=fadeIn&fontAlign=50" alt="Atul Tools Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Atul%20Tools&fontSize=80&animation=fadeIn&fontAlign=50" alt="Atul Tools Header" />
 
   # 🚀 All-in-One Smart Utility Tool
 
